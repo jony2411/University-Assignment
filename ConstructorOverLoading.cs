@@ -50,6 +50,8 @@ public class Library
     {
         Library b1 = new Library("The Hacker Playbook","Practical Guide To Penetration Testing","Peter Kim",1494932636,2499);
         b1.printInfo();
+        Library b2 = new Library ("Title","dddd");
+        b2.printInfo();
     }
     
 }
