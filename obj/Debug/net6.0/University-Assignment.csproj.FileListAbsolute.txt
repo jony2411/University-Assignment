@@ -1,0 +1,15 @@
+/home/jony/University-Assignment/bin/Debug/net6.0/University-Assignment
+/home/jony/University-Assignment/bin/Debug/net6.0/University-Assignment.deps.json
+/home/jony/University-Assignment/bin/Debug/net6.0/University-Assignment.runtimeconfig.json
+/home/jony/University-Assignment/bin/Debug/net6.0/University-Assignment.dll
+/home/jony/University-Assignment/bin/Debug/net6.0/University-Assignment.pdb
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.csproj.AssemblyReference.cache
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.AssemblyInfoInputs.cache
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.AssemblyInfo.cs
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.csproj.CoreCompileInputs.cache
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.dll
+/home/jony/University-Assignment/obj/Debug/net6.0/refint/University-Assignment.dll
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.pdb
+/home/jony/University-Assignment/obj/Debug/net6.0/University-Assignment.genruntimeconfig.cache
+/home/jony/University-Assignment/obj/Debug/net6.0/ref/University-Assignment.dll
